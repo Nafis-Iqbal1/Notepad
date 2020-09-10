@@ -107,7 +107,7 @@ def rateus_rateus():
 root = Tk()
 # software title
 root.title("Untitled-Notepad")
-# root.wm_iconbitmap("ICON URL")
+#root.wm_iconbitmap("write herw the currect path of icon")
 root.geometry("835x520")
 # add a label
 label = Label(text="Created By Nafis Iqbal", bg="powder blue")
