@@ -1,5 +1,6 @@
 # Notepad
 Note pad, you can use it for creating note. It's a clone of our general notepad software.
+
 --------------------------------Requirement----------------------------------   
 If you use Python 3.8 IDLE , you will not need any kind of package installion . 
 
