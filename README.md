@@ -1,5 +1,5 @@
 # Notepad
---------------------------------Requarment----------------------------------   
+--------------------------------Requirement----------------------------------   
 If you use Python 3.8 IDLE , you will not need any kind of package installion . 
 
 If you use pycharm IDE , you shuold install Future package .
